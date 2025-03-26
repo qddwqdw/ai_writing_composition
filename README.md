@@ -100,4 +100,8 @@ python bot.py
 
 ## 许可证
 
+<<<<<<< HEAD
 本项目采用 [MIT License](LICENSE)。
+=======
+本项目采用 [MIT License](LICENSE)。
+>>>>>>> acec26172801e0e2c4d6633ae611c223b1d23fc0
