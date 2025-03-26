@@ -165,7 +165,7 @@ class EssayBookGenerator:
             target_category["themes"].append(theme_data)
 
 if __name__ == "__main__":
-    DEEPSEEK_API_KEY = 'sk-tqolkxkjakcnncbswogtilkjuzsztsobuizyuqmzfjgictkd'
+    DEEPSEEK_API_KEY = '填入你的API_KEY'
     
     generator = EssayBookGenerator(DEEPSEEK_API_KEY)
     generator.generate_book()
